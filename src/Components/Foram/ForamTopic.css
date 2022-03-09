@@ -1,0 +1,6 @@
+.profile_title> img, h6{
+    padding: 10px;
+}
+.profile_title> img{
+    border-radius: 100px;
+}

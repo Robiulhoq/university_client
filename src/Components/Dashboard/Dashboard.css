@@ -1,0 +1,25 @@
+.dashboard_sidebar{
+    min-height: 100vh;
+    background-color: #e9ebfa;
+}
+.top_manu{
+    background-color: white;
+    min-height: 3rem;
+    width: 100%;
+    padding: 10px;
+}
+.top_manu>img{
+    width: 5rem;
+}
+.foram_container{
+    background-color: white;
+    border-radius: 10px;
+}
+.footer_container{
+    background-color: rgb(115, 115, 209);
+    min-height: 3rem;
+}
+.row{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}

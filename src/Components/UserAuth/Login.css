@@ -1,0 +1,24 @@
+.login_container{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url('https://i.ibb.co/FDBmDM5/pexels-hasan-albari-1229861-min.jpg');
+    background-size: cover;
+    border: 15px solid white;
+    
+}
+.login_input_field{
+  background-color: blueviolet;
+  margin: 15px;
+  padding: 5px;
+  min-height: 15rem;
+  width: 18rem;
+}
+.login_input_field>input, button, p{
+    width: 16rem;
+    margin: 0.5rem;
+    padding: 5px;
+}
+.Sing_Up>a{
+ 
+    color: black;
+}

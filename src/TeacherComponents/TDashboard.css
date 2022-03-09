@@ -1,0 +1,11 @@
+.box{
+    min-height: 5rem;
+    min-width: 12rem;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.row{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
